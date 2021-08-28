@@ -1,0 +1,27 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<root>
+   <divide>17.142857142857142</divide>
+   <multiply>840</multiply>
+   <add>127</add>
+   <subtract>113</subtract>
+   <square-root>11</square-root>
+   <roundInt>18</roundInt>
+   <roundDec1>17.64</roundDec1>
+   <floorInt>17</floorInt>
+   <floorDec1>17.642</floorDec1>
+   <ceilInt>18</ceilInt>
+   <ceilDec1>17.143</ceilDec1>
+   <format1>123.46</format1>
+   <format1-1>123.40</format1-1>
+   <format2>123.46</format2>
+   <format2-1>123</format2-1>
+   <format3>$123,456.79</format3>
+   <format4>13.25%</format4>
+   <format5>132.450</format5>
+   <format5-1>(132.450)</format5-1>
+   <errors>
+      <error>NaN</error>
+      <error>NaN</error>
+      <error>NaN</error>
+   </errors>
+</root>
